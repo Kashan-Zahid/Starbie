@@ -19,7 +19,7 @@
 | [resistor](https://www.daraz.pk/products/25-10k-ohm-14w-i186088466) | control flow of current | 1 | $0.16 | $0.16 | [daraz.pk](https://www.daraz.pk/products/25-10k-ohm-14w-i186088466) |
 | [breadboard](https://digilog.pk/products/mb102-830-points-solderless-prototype-pcb-breadboard-high-quality-in-pakistan?srsltid=AU7gw4WOC0eVsP-4WXz9mTeuShyYfvpqpaQqeWsNG8sDsoZzQ_1vzpoA) | for connection | 1 | $1.01 | $1.01 | [digilog.pk](https://digilog.pk/products/mb102-830-points-solderless-prototype-pcb-breadboard-high-quality-in-pakistan?srsltid=AU7gw4WOC0eVsP-4WXz9mTeuShyYfvpqpaQqeWsNG8sDsoZzQ_1vzpoA) |
 | **Parts subtotal** | — | — | — | **$8.97** | — |
-| **Tax & shipping** | — | — | — | **$10.00** | — |
-| **Total** | — | — | — | **$18.97** | — |
+| **Tax & shipping** | — | — | — | **$6.00** | — |
+| **Total** | — | — | — | **$14.97** | — |
 
-$11.03 left of the tier's funding.
+$15.03 left of the tier's funding.
