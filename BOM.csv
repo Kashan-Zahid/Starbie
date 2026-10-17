@@ -1,7 +1,8 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"J1";"Display_128x64_096_I2C";1;"Conn_01x04_Pin";;;
-2;"J2";"MPU6050_Module";1;"Conn_01x08_Pin";;;
-3;"R1";"R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal";1;"10k";;;
-4;"SW1, SW2";"SW_Cherry_MX_1.00u_PCB";2;"SW_Push";;;
-5;"U1";"MCU_Seeed_ESP32C3";1;"XIAO-ESP32-C3-SMD";;;
-6;"U3";"Aosong_DHT11_5.5x12.0_P2.54mm";1;"DHT11";;;
+Item,Qty,Supplier,Cost/item,Total Cost,link
+Dh11,1,daraz.pk,$1.00,$1.00,https://circuit.pk/product/227
+OLed,1,circuit.pk,$3.61,$3.61,https://circuit.pk/product/606
+Mpu 6500,1,circuit.pk,$1.73,$1.73,https://circuit.pk/product/4431
+mx cherry,2,megatechmall.com,$0.73,$1.46,https://megatechmall.com/shop/electronic-devices/mechanical-keyboard-silent-switches-200pcs-dustproof-switches/?srsltid=AU7gw4XkhfXKHcvRinm9iToSTEF9XsNOxkFB1U0BIr6FdhPKOCxBDMUr
+resistor,1,daraz.pk,$0.16,$0.16,https://www.daraz.pk/products/25-10k-ohm-14w-i186088466
+breadboard,1,digilog.pk,$1.01,$1.01,https://digilog.pk/products/mb102-830-points-solderless-prototype-pcb-breadboard-high-quality-in-pakistan?srsltid=AU7gw4WOC0eVsP-4WXz9mTeuShyYfvpqpaQqeWsNG8sDsoZzQ_1vzpoA
+Estimated total shipping,1,,,$6.00,
