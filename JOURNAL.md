@@ -73,7 +73,10 @@
 
 so Todays work to complete my project i improve my pcb design to improve pcb output because last one was not good as now so today work to improve by pcb so i getting started with it and  i done it
 
-![Screenshot From 2026-10-11 21-00-14](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/AE8DDWkJDwOkNO4LOZdpOiHm1dB9FEUt/b58d30795321f79718fc86d1a1719235b70b0958e3277857f501c691f4aac2db.png)
+![Screenshot From 2026-10-11 21-00-14]
+
+![Screenshot From 2026-10-11 21-00-32](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/AE8DDWkJDwOkNO4LOZdpOiHm1dB9FEUt/867eeaa5927b93c6df418c87e53e38903c46ace876768952be2dde5f6772a0e1.png)
+
 so by  half an hour this was completed by today i have to redesign by casing as well as  it all need to replace
 whole so i started redesigning it now i come up with a new  design which is totally differnet from previous one and it also have diifernt color scheme from previous onee and at the end i also add a keychain or a hook to hang it anywhere
 so it make an diifernet approach but where i dont know how to cad a chain so i grab it from grab
