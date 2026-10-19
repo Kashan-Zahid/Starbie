@@ -21,7 +21,7 @@
 5. [2026-10-11 – Work session](#2026-10-11-work-session)
 6. [2026-10-11 – Work session](#2026-10-11-work-session)
 7. [2026-10-11 – Work session](#2026-10-11-work-session)
-8. [2026-10-11 – so Todays work to complete my project i improve my pcb design to improve pcb output because last one was not good as now so today work to improve by pcb so i getting started with it and  i done it](#2026-10-11-so-todays-work-to-complete-my-project-i-improve-m)
+8. [2026-10-11 – Today, I focused on improving my PCB design because my previous version wasn't as good as I wanted it to be. I wanted to improve the overall PCB layout and make the design better before moving forward](#2026-10-11-today-i-focused-on-improving-my-pcb-design-becaus)
 
 ## Design
 
@@ -67,18 +67,15 @@
 
 [Timelapse](https://lookout.hackclub.com/api/media/97dc5f59-5ab2-4b26-9743-51ab9cb93c2c/video.mp4)
 
-### 2026-10-11 – so Todays work to complete my project i improve my pcb design to improve pcb output because last one was not good as now so today work to improve by pcb so i getting started with it and  i done it
+### 2026-10-11 – Today, I focused on improving my PCB design because my previous version wasn't as good as I wanted it to be. I wanted to improve the overall PCB layout and make the design better before moving forward
 
 **1h**
 
-so Todays work to complete my project i improve my pcb design to improve pcb output because last one was not good as now so today work to improve by pcb so i getting started with it and  i done it
-
-![Screenshot From 2026-10-11 21-00-14]
+Today, I focused on improving my PCB design because my previous version wasn't as good as I wanted it to be. I wanted to improve the overall PCB layout and make the design better before moving forward with the rest of the project.I started working on the PCB and managed to complete the improvements in around 30 minutes. Once I was satisfied with the updated design, I moved on to another important part of the project: redesigning the entire casing.
 
 ![Screenshot From 2026-10-11 21-00-32](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/AE8DDWkJDwOkNO4LOZdpOiHm1dB9FEUt/867eeaa5927b93c6df418c87e53e38903c46ace876768952be2dde5f6772a0e1.png)
-
-so by  half an hour this was completed by today i have to redesign by casing as well as  it all need to replace
-whole so i started redesigning it now i come up with a new  design which is totally differnet from previous one and it also have diifernt color scheme from previous onee and at the end i also add a keychain or a hook to hang it anywhere
-so it make an diifernet approach but where i dont know how to cad a chain so i grab it from grab
+I decided not to stick with my previous case design. Instead, I created a completely different design with a new colour scheme to give the project a fresh look. I also added a keychain-style hook so that the device could be attached to a keyring or hung somewhere conveniently.
 
 ![Screenshot From 2026-10-11 20-52-37](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/AE8DDWkJDwOkNO4LOZdpOiHm1dB9FEUt/56f1d52bab8eec576368c43218e598374acaa04687006b15304c5fc7f241a487.png)
+One challenge I faced was creating the chain itself in CAD. Since I wasn't sure how to model it properly, I searched for an existing chain model on GrabCAD and used it as a reference/component for my design.
+Overall, today was about improving both the electronics layout and the physical appearance of the project. I made progress on the PCB, redesigned the casing, and added a practical feature that makes the final product more convenient to carry.
