@@ -20,6 +20,14 @@ I designed a custom 3D-printed casing to house the electronics and give the proj
 
 I wanted to challenge myself to design a hardware project from scratch and combine electronics, PCB design, firmware, and 3D modelling.
 
+## How To Use it
+
+1.Powering On: Connect the board via USB-C to power the unit.
+
+2. Setting the Alarm: Use the primary tactile buttons to adjust hours/minutes and enable the alarm.
+   
+3. Silencing: Press the snooze/dismiss button when the alarm sounds.
+
 ##  Challenges I Faced
 
 Designing the PCB and creating a casing that fits the electronics required careful planning and design revisions. I also learned how to prepare manufacturing files for a custom PCB.
