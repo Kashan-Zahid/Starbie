@@ -97,3 +97,13 @@ The component subtotal is calculated from the recorded prices above; it is not a
 **Important:** The breadboard is a prototyping item, so confirm whether it belongs in the final project BOM or was only used during development. Also confirm that the listed components match the final PCB design.
 
 See [`BOM.csv`](BOM.csv) for the component list.
+
+## Editable 3D Design (Onshape)
+
+The Starbie enclosure was designed using Onshape. I created and revised the 3D model to fit the electronics and provide a finished enclosure for the project.
+
+The original editable CAD document is available here:
+
+**[View Starbie's Editable 3D Design on Onshape](https://cad.onshape.com/documents/d6ad51c0185554a6a528b003/w/05fafd2a75e4a24dc14ee40b/e/c8ed782f1f7a7a6b0a75496d?renderMode=0&uiState=6ae42ee53693e84fc74a8607)**
+
+The editable document allows others to inspect the original design and understand how the enclosure was modelled.
